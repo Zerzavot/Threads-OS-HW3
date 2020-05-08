@@ -42,7 +42,7 @@ library. To run your program (for C code):
  
  I have 2 part of stage in this homework:<br>
  First one threads1.c file detect sentences and threads return the number of sentences.<br>
- Second one threads2.c file detect sentences but dont return the numbers to main function.<br>
+ Second one threads2.c file detect sentences but dont return the numbers to main function. Print process working in thread function<br>
  
  ## References
  

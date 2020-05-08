@@ -1,4 +1,4 @@
-# Threads---OS_HW3
+# Threads_OS_HW3
 Find the number of sentences with Threads 
 It s my Operating System homework.
 
@@ -7,6 +7,7 @@ It s my Operating System homework.
     pThread library
     Ubuntu OS
     gcc
+
 
 
 ## Description of Homework
@@ -26,8 +27,9 @@ Write a C / C ++ program that does all this. You can examine the pthread_create 
 library. To run your program (for C code):
 
 ## Build & Run
-Build:
-    gcc name.c –lpthread
-Run:
-    ./a.out
+Build:<br>
+      gcc name.c –lpthread
+    
+Run:<br>
+       ./a.out
 

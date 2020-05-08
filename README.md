@@ -41,8 +41,8 @@ library. To run your program (for C code):
  Secondly, We are creating threads in the main function. Number of threads are taken from user.<br>
  
  I have 2 part of stage in this homework:<br>
- First one threads1.c file detect sentences but dont return the numbers to main function.<br>
- Second one threads2.c file detect sentences and threads return the number of sentences.<br>
+ First one threads1.c file detect sentences and threads return the number of sentences.<br>
+ Second one threads2.c file detect sentences but dont return the numbers to main function.<br>
  
  ## References
  
@@ -57,7 +57,9 @@ library. To run your program (for C code):
  * https://www.ibm.com/support/knowledgecenter/SSLTBW_2.4.0/com.ibm.zos.v2r4.bpxbd00/ptjoin.htm
  
  
+ ## Results
  
+ ![Ekran Görüntüsü - 2020-05-08 14-15-49](https://user-images.githubusercontent.com/50207648/81400754-81ca4600-9136-11ea-88e0-3fcd549b8b75.png)
  
  
 

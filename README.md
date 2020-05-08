@@ -32,3 +32,33 @@ library. To run your program (for C code):
     ./a.out
 
 
+
+
+## Working Principle
+ First of all, we wanna read a file whose name is input.txt .You can easily create a sample file with name input.<br>
+     fp = fopen("input.txt", "r");<br> 
+ Now, we can read this file and we can detect number sentences.<br>
+ Secondly, We are creating threads in the main function. Number of threads are taken from user.<br>
+ 
+ I have 2 part of stage in this homework:<br>
+ First one threads1.c file detect sentences but dont return the numbers to main function.
+ Second one threads2.c file detect sentences and threads return the number of sentences.
+ 
+ ## References
+ 
+ * https://www.youtube.com/playlist?list=PL9IEJIKnBJjFZxuqyJ9JqVYmuFZHr7CFM  MOST USEFUL VIDEO SERIES:)
+ *
+ * http://www.yolinux.com/TUTORIALS/LinuxTutorialPosixThreads.html
+ *
+ * https://randu.org/tutorials/threads/
+ *
+ * https://courses.engr.illinois.edu/cs241/fa2010/ppt/10-pthread-examples.pdf
+ *
+ * https://www.ibm.com/support/knowledgecenter/SSLTBW_2.4.0/com.ibm.zos.v2r4.bpxbd00/ptjoin.htm
+ 
+ 
+ 
+ 
+ 
+
+

@@ -10,6 +10,7 @@ It s my Operating System homework.
 
 
 
+
 ## Description of Homework
 
 You have a file named input.txt. Read this file line by line by creating X threads. Each thread find the number of sentences
@@ -27,9 +28,7 @@ Write a C / C ++ program that does all this. You can examine the pthread_create 
 library. To run your program (for C code):
 
 ## Build & Run
-Build:<br>
-      gcc name.c –lpthread
-    
-Run:<br>
-       ./a.out
+    gcc name.c –lpthread
+    ./a.out
+
 

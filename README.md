@@ -1,6 +1,6 @@
 # Threads_OS_HW3
-Find the number of sentences with Threads 
-It s my Operating System homework.
+**Find the number of sentences with Threads**<br>
+It s my Operating System Homework3 / Ankara University .
 
 ## Requirements
 
@@ -41,19 +41,19 @@ library. To run your program (for C code):
  Secondly, We are creating threads in the main function. Number of threads are taken from user.<br>
  
  I have 2 part of stage in this homework:<br>
- First one threads1.c file detect sentences but dont return the numbers to main function.
- Second one threads2.c file detect sentences and threads return the number of sentences.
+ First one threads1.c file detect sentences but dont return the numbers to main function.<br>
+ Second one threads2.c file detect sentences and threads return the number of sentences.<br>
  
  ## References
  
  * https://www.youtube.com/playlist?list=PL9IEJIKnBJjFZxuqyJ9JqVYmuFZHr7CFM  MOST USEFUL VIDEO SERIES:)
- *
+
  * http://www.yolinux.com/TUTORIALS/LinuxTutorialPosixThreads.html
- *
+
  * https://randu.org/tutorials/threads/
- *
+
  * https://courses.engr.illinois.edu/cs241/fa2010/ppt/10-pthread-examples.pdf
- *
+
  * https://www.ibm.com/support/knowledgecenter/SSLTBW_2.4.0/com.ibm.zos.v2r4.bpxbd00/ptjoin.htm
  
  

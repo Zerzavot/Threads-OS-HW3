@@ -1,0 +1,33 @@
+Thread management:
+Routines that work directly on threads - creating, detaching, joining, etc.
+They also include functions to set/query thread attributes such as joinable, scheduling etc.
+
+Mutexes:
+Routines that deal with synchronization, called a "mutex", which is an abbreviation for "mutual exclusion". Mutex 
+functions provide for creating, destroying, locking and unlocking mutexes.
+These are supplemented by mutex attribute functions that set or modify attributes associated with mutexes. 
+
+Condition variables:
+Routines that address communications between threads that share a mutex. Based 
+upon programmer specified conditions. This group includes functions to create, destroy, wait and signal based upon specified variable 
+values. Functions to set/query condition variable attributes are also included.
+
+Synchronization:
+Routines that manage read/write locks and barriers. 
+
+Thread management:
+Routines that work directly on threads - creating, detaching, joining, etc.
+They also include functions to set/query thread attributes such as joinable, scheduling etc.
+
+Mutexes:
+Routines that deal with synchronization, called a "mutex", which is an abbreviation for "mutual exclusion". Mutex 
+functions provide for creating, destroying, locking and unlocking mutexes.
+These are supplemented by mutex attribute functions that set or modify attributes associated with mutexes. 
+
+Condition variables:
+Routines that address communications between threads that share a mutex. Based 
+upon programmer specified conditions. This group includes functions to create, destroy, wait and signal based upon specified variable 
+values. Functions to set/query condition variable attributes are also included.
+
+Synchronization:
+Routines that manage read/write locks and barriers. 

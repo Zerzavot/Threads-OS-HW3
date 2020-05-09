@@ -1,4 +1,4 @@
-# Threads_OS_HW3
+# Threads OS HW3
 **Find the number of sentences with Threads**<br>
 It s my Operating System Homework3 / Ankara University .
 
